@@ -1,0 +1,13 @@
+{
+  "num_miners": 4,
+  "target_block_height": 50,
+  "max_round_multiplier": 1000,
+  "propagation_vector": [0.85, 1.0],
+  "vdf_modulus_n": 2147483647,
+  "vdf_phi": 2147483646,
+  "vdf_squarings_per_round": 8,
+  "pow_hashes_per_round": 200,
+  "min_delay_rounds": 300,
+  "max_delay_rounds": 400,
+  "pow_difficulty_phi": 11248374383053573269718324257986825334317655653233654792404451017911561159
+}
