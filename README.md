@@ -27,7 +27,6 @@ If you are using a venv located at `.\povd_platform\.venv\`, you still need to i
 
 Use a JSON config file. You can start from:
 ```
-
 .\povd_platform\mining_demo_config.json
 ```
 
