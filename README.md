@@ -9,3 +9,6 @@ ChainXim: https://github.com/ChainXim-Team/ChainXim
  - matplotlib > 3.5.1
  - networkx > 2.8.7
  - pandas
+
+ **Run experiments**
+run main scripts in fig xx folders
