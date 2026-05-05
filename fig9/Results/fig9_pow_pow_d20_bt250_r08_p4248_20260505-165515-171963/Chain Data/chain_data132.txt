@@ -1,0 +1,4 @@
+Miner 132
+is_adversary: False
+consensus_params: {'target': '00001a4456bc2000000000000000000000000000000000000000000000000000', 'q': 10}
+

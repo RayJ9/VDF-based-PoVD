@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "povd-platform"
+version = "0.1.0"
+description = "A mining consensus platform for comparing PoVD, PoW, and VDF baseline miners."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+    "WMI>=1.5.1",
+    "pywin32>=306",
+]
+
+[project.scripts]
+povd-platform = "povd_platform.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["povd_platform*"]

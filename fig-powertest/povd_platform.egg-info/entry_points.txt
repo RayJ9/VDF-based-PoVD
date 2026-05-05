@@ -1,0 +1,2 @@
+[console_scripts]
+povd-platform = povd_platform.cli:main
