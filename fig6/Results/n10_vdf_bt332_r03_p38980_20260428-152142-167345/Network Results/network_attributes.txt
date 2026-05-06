@@ -1,0 +1,2 @@
+Network Type: BoundedDelayNetwork
+rcvprob_start:0.8,rcvprob_inc=0.1

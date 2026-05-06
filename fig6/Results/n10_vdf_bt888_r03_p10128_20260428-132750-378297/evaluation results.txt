@@ -1,0 +1,18 @@
+num_of_generated_blocks: 1506
+num_of_valid_blocks: 1501
+num_of_stale_blocks: 5
+stale_rate: 0.00332005
+num_of_forks: 5
+fork_rate: 0.00333111
+average_block_time_main: 706.91805463 rounds/block
+block_throughput_main: 0.00141459 blocks/round
+throughput_main_MB: 0.01131673 MB/round
+average_block_time_total: 704.57104914 rounds/block
+block_throughput_total: 0.0014193 blocks/round
+throughput_total_MB: 0.01135443 MB/round
+total_round: 1061084
+average_chain_growth_in_honest_miners'_chain: 1500.9
+chain_quality_property: {'Honest Block': 1502, 'Adversary Block': 0}
+ratio_of_blocks_contributed_by_malicious_players: 0.0
+upper_bound t/(n-t): 0.0
+block_propagation_times: {0.1: 0, 0.2: 0.0, 0.4: 0.001, 0.5: 0.006, 0.6: 0.018, 0.7: 0.088, 0.8: 0.264, 0.9: 0.584, 1.0: 1.035}
